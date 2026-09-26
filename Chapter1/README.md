@@ -12,7 +12,7 @@
 2.6 Making Sense of IntelliSense
 2.7 PictureBox Controls
 2.8 Comments, Blank Lines, and Indentation
-2.9 Writing the Code to Close an Application’s Form
+2.9 Writing the Code to Close an Application's Form
 2.10 Dealing with Syntax Errors
 
 ## Objects
@@ -31,7 +31,7 @@
 
 ## Controls
 
-🟠 Objects that are visible in the GUI (interface) are known as controls (e.g., Label, Button, TextBox).
+🟠 Objects that are visible in the GUI (interface) are known as controls  || Label, Button, TextBox || 
 
 🟠 There are objects that cannot be seen, such as Timer and OpenFileDialog.
 
@@ -254,9 +254,9 @@
 
 ## Writing the Code to Close an Application's Form
 
-🟠 this.Close(); → closes only the current form.
+🟠 this.Close(); closes only the current form.
 
-🟠 Application.Exit(); → closes the entire application.
+🟠 Application.Exit();  closes the entire application.
 
 🟠 A common practice is to create an Exit button with this code attached.
 
