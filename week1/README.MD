@@ -1,6 +1,0 @@
--- creating variable 
--- user puting data 
--- limiting data input using int for numeric data like ID  
--- showing up together all input in one label 
--- clearing all data when click clear button 
--- clicking exixt button when need to stop the program 
