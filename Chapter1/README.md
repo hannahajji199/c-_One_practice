@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # objectives 
   # topics 
   .1 Objects
