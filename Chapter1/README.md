@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # objectives 
   # topics 
   .1 Objects
@@ -102,7 +103,7 @@
 
 ## Getting Started with Forms and Controls
 
-🟠 When a new Windows Forms App is started, an empty form named Form1 is automatically created (300×300 pixels).
+🟠 When a new Windows Forms App is started, an empty form named Form1 is automatically created (300 x 300 pixels).
 
 🟠 Bounding Box: the thin dotted lines surrounding the form in the Designer, with sizing handles used to resize it.
 
@@ -266,11 +267,3 @@
 🟠 If an error exists, it is underlined with a jagged line in red.
 
 🟠 If you try to compile/run a program with an error, a dialog appears reporting that build errors occurred.
-
-
-
-
-
-
-
-
