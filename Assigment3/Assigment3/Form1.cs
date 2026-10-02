@@ -50,7 +50,7 @@ namespace Assigment3
             // displaying the result
 
             lblsalestaxes.Text=sales_text.ToString();
-            lblsalestax.Text=tips.ToString(); 
+            lblsalestips.Text=tips.ToString(); 
             lbltotalamount.Text=totalanount.ToString();
             }
             catch {

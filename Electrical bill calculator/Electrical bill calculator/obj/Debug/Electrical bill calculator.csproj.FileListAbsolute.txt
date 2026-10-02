@@ -1,0 +1,11 @@
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\bin\Debug\Electrical bill calculator.exe.config
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\bin\Debug\Electrical bill calculator.exe
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\bin\Debug\Electrical bill calculator.pdb
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical_bill_calculator.Form1.resources
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical_bill_calculator.Properties.Resources.resources
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.exe
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.pdb
+C:\Users\Pc\Documents\c#_Homework\Electrical bill calculator\Electrical bill calculator\obj\Debug\Electrical bill calculator.exe.config

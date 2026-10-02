@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment3\\",
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|c:\\users\\pc\\documents\\github\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|solutionrelative:assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|c:\\users\\pc\\documents\\github\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|c:\\users\\pc\\documents\\github\\c-_one_practice\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BF0FD77B-7FB1-45F8-AAB8-10E0FDF84A25}|Assigment3\\Assigment3.csproj|solutionrelative:assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment3\\Assigment3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\Assigment3\\Form1.cs",
               "RelativeDocumentMoniker": "Assigment3\\Form1.cs",
-              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment3\\Assigment3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\Assigment3\\Form1.cs",
               "RelativeToolTip": "Assigment3\\Form1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwDgAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wDQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T13:32:25.21Z",
               "IsPinned": true,
@@ -42,9 +42,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment3\\Assigment3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\Assigment3\\Form1.cs",
               "RelativeDocumentMoniker": "Assigment3\\Form1.cs",
-              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment3\\Assigment3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\c-_One_practice\\Assigment3\\Assigment3\\Form1.cs [Design]",
               "RelativeToolTip": "Assigment3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T13:19:06.001Z",
