@@ -1,0 +1,11 @@
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\bin\Debug\Assigment_3.exe.config
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\bin\Debug\Assigment_3.exe
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\bin\Debug\Assigment_3.pdb
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.Form1.resources
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.Properties.Resources.resources
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.exe
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.pdb
+C:\Users\Pc\Documents\GitHub\Assigment_3\Assigment_3\obj\Debug\Assigment_3.exe.config

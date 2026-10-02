@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213F093C-B51B-4668-AF46-A2FEB6F36BE2}|Assigment_3\\Assigment_3.csproj|c:\\users\\pc\\documents\\github\\assigment_3\\assigment_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213F093C-B51B-4668-AF46-A2FEB6F36BE2}|Assigment_3\\Assigment_3.csproj|solutionrelative:assigment_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213F093C-B51B-4668-AF46-A2FEB6F36BE2}|Assigment_3\\Assigment_3.csproj|c:\\users\\pc\\documents\\github\\assigment_3\\assigment_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213F093C-B51B-4668-AF46-A2FEB6F36BE2}|Assigment_3\\Assigment_3.csproj|solutionrelative:assigment_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment_3\\Assigment_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment_3\\Assigment_3\\Form1.cs",
+              "RelativeToolTip": "Assigment_3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:59:28.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment_3\\Assigment_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment_3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\Assigment_3\\Assigment_3\\Form1.cs [Design]",
+              "RelativeToolTip": "Assigment_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:39:42.063Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
