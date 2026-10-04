@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Range_checker")]
+[assembly: AssemblyTitle("Example_nested_if")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Range_checker")]
+[assembly: AssemblyProduct("Example_nested_if")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b803c4d7-f896-4343-bd1b-70f0be5762df")]
+[assembly: Guid("bc09a776-c2b4-4c2b-8e84-b42da6e9afa3")]
 
 // Version information for an assembly consists of the following four values:
 //

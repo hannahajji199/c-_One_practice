@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B803C4D7-F896-4343-BD1B-70F0BE5762DF}</ProjectGuid>
+    <ProjectGuid>{BC09A776-C2B4-4C2B-8E84-B42DA6E9AFA3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Range_checker</RootNamespace>
-    <AssemblyName>Range_checker</AssemblyName>
+    <RootNamespace>Example_nested_if</RootNamespace>
+    <AssemblyName>Example_nested_if</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

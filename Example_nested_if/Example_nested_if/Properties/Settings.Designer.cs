@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Range_checker.Properties
+namespace Example_nested_if.Properties
 {
 
 

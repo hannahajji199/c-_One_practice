@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Range_checker
+namespace Example_nested_if
 {
     internal static class Program
     {
