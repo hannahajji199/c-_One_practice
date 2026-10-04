@@ -1,0 +1,11 @@
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith_overtime.Form1.resources
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith_overtime.Properties.Resources.resources
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\bin\Debug\payrollwith overtime.exe.config
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\bin\Debug\payrollwith overtime.exe
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\bin\Debug\payrollwith overtime.pdb
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.exe
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.pdb
+C:\Users\Pc\Documents\c#_Homework\payrollwith overtime\payrollwith overtime\obj\Debug\payrollwith overtime.exe.config
