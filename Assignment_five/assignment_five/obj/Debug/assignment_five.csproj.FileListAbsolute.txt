@@ -1,0 +1,10 @@
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\bin\Debug\assignment_five.exe.config
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\bin\Debug\assignment_five.exe
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\bin\Debug\assignment_five.pdb
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.Form1.resources
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.Properties.Resources.resources
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.exe
+C:\Users\Pc\Documents\c#_homework\assignment_five\assignment_five\obj\Debug\assignment_five.pdb
