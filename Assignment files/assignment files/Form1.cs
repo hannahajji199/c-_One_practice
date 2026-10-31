@@ -80,24 +80,14 @@ namespace assignment_five
 
         private void button4_Click(object sender, EventArgs e)
         {
-           
-
-            // Open and read the file 
-            byte[] input_file = File.ReadAllBytes("reading.doc");
-
-            // Process the file  bytes into text
-            string text = Encoding.UTF8.GetString(input_file);
-
-            foreach (string line in text.Split('\n'))
+   
+            listBox1.Items.Clear();
+            foreach (string line in File.ReadLines("reading.doc"))
             {
-                listBox1.Items.Add(line.Replace("\n", ""));
+            listBox1.Items.Add(line);
             }
-
-            
-
-
-
-        }
+}
+        
 
         private void button3_Click(object sender, EventArgs e)
         {
