@@ -158,7 +158,7 @@
 
 🟠 int unitsSold = 650m; :  ERROR
 
-🟠 int score = −25.5; :  ERROR
+🟠 int score = 25.5; :  ERROR
 
 ## Assignment Compatibility for double Variables
 
@@ -182,7 +182,7 @@
 
 - Explicit Conversion with Cast Operators
 
-🟠 Type casting lets you explicitly convert among types using the cast operator — the type name in parentheses.
+🟠 Type casting lets you explicitly convert among types using the cast operator the type name in parentheses.
 
 🟠 Example: wholeNumber = (int)moneyNumber; and realNumber = (double)moneyNumber;
 
