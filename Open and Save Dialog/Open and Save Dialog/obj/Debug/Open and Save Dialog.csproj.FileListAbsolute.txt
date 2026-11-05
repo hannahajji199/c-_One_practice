@@ -1,0 +1,11 @@
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\bin\Debug\Open and Save Dialog.exe.config
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\bin\Debug\Open and Save Dialog.exe
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\bin\Debug\Open and Save Dialog.pdb
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open_and_Save_Dialog.Form1.resources
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open_and_Save_Dialog.Properties.Resources.resources
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.exe
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.pdb
+C:\Users\Pc\Documents\c#_Homework\Open and Save Dialog\Open and Save Dialog\obj\Debug\Open and Save Dialog.exe.config
